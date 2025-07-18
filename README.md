@@ -1,9 +1,6 @@
 # LAN Party Tournament Manager 🎮
 
 **Author:** Cătălin Gabriel Badea  
-**Group:** 322AB  
-**OS:** Windows 10
-**IDE:** VS-Code  
 
 ---
 
