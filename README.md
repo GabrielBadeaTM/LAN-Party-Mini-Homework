@@ -10,7 +10,7 @@
 ## 📌 Overview
 
 This project implements a tournament manager for a LAN Party event organized by the Faculty of Automation and Computers.  
-The program reads team data and simulates a knockout tournament using linked lists, queues, stacks, and binary search trees, all implemented with manual dynamic memory management in C.
+The program reads team data and simulates a knockout tournament using linked lists, queues, stacks, and binary search trees, all implemented with manual dynamic memory management in C.  
 Not a flashy project, but a valuable learning experience during university that helped me practice core data structures and algorithmic thinking in my first year.
 
 ---
